@@ -1,1 +1,1 @@
-from .data_logger import DataLogger
+from .ring_buffer_manager import RingBufferManager
